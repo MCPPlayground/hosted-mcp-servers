@@ -103,6 +103,8 @@ Pick any of these on [mcpplaygroundonline.com/mcp-hosted](https://mcpplaygroundo
 | **LinkedIn** | Scrape profiles, run job searches | [official](https://hub.docker.com/r/mcp/linkedin) |
 | **Atlassian (Jira + Confluence)** | Issues, sprints, pages | [official](https://github.com/sooperset/mcp-atlassian) |
 | **Dodo Payments** | Payments, subscriptions, taxes | [official](https://hub.docker.com/r/mcp/dodo-payments) |
+| **Statsnet** | Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` | [usenetstate/statsnet-mcp](https://github.com/usenetstate/statsnet-mcp) |
+
 
 ### Web + observability
 
